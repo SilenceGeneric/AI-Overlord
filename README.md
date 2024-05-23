@@ -1,9 +1,9 @@
-                       ##AI-Overlord##
-
-  ## Description
+ ## Description
   One AI to rule them all.... 
 
   ##README:
+
+  **Work in progress!*
 
   AI-Overlord is an advanced AI-powered coding system that leverages multiple AI models and APIs to assist developers in coding tasks. It integrates with OpenAI's language models, shell commands, and other AI tools to provide intelligent suggestions and automate coding processes.
 
