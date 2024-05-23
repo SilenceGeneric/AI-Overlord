@@ -1,11 +1,11 @@
-                         ##AI-Overlord##
+                       ##AI-Overlord##
 
   ## Description
   One AI to rule them all.... 
 
   ##README:
 
-  AI-Coder is an advanced AI-powered coding system that leverages multiple AI models and APIs to assist developers in coding tasks. It integrates with OpenAI's language models, shell commands, and other AI tools to provide intelligent suggestions and automate coding processes.
+  AI-Overlord is an advanced AI-powered coding system that leverages multiple AI models and APIs to assist developers in coding tasks. It integrates with OpenAI's language models, shell commands, and other AI tools to provide intelligent suggestions and automate coding processes.
 
   ## Features
 
@@ -19,7 +19,7 @@
 
   1. **Clone the Repository:** 
      ```
-     git clone https://github.com/your_username/AI-Coder.git
+     git clone https://github.com/your_username/AI-Overlord.git
      ```
 
   2. **Install Dependencies:** 
@@ -53,7 +53,7 @@
 
   ## Acknowledgements
 
-  - **OpenAI:** Special thanks to OpenAI for providing access to their language models and APIs, powering the core functionality of AI-Coder.
+  - **OpenAI:** Special thanks to OpenAI for providing access to their language models and APIs, powering the core functionality of AI-Overlord.
 
   ## Contact
 
