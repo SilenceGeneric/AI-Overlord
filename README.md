@@ -40,8 +40,8 @@
   ## Usage
 
   1. **Enter Prompt:** Input your coding prompt or command into the terminal prompt.
-  2. **Review Output:** AI-Coder will process your input and provide the appropriate response, whether it's executing a shell command, generating code, or interfacing with another AI tool.
-  3. **Iterate and Improve:** Use the feedback and suggestions provided by AI-Coder to iterate on your code and enhance your coding workflow.
+  2. **Review Output:** AI-Overlord will process your input and provide the appropriate response, whether it's executing a shell command, generating code, or interfacing with another AI tool.
+  3. **Iterate and Improve:** Use the feedback and suggestions provided by AI-Overlord to iterate on your code and enhance your coding workflow.
 
   ## Contributing
 
