@@ -9,7 +9,7 @@
 
   ## Features
 
-  - **Multi-functional:** AI-Coder can handle various types of coding tasks, including executing shell commands, generating code snippets, and interfacing with other AI tools.
+  - **Multi-functional:** AI-Overlord can handle various types of coding tasks, including executing shell commands, generating code snippets, and interfacing with other AI tools.
   - **OpenAI Integration:** Utilizes OpenAI's powerful language models for generating code and making decisions based on user prompts.
   - **Shell Command Execution:** Executes shell commands based on user input, allowing for seamless integration with the command line.
   - **Customizable:** Easily configurable to integrate with other AI tools and APIs, providing flexibility for different coding workflows.
