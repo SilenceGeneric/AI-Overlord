@@ -44,21 +44,3 @@ Acknowledgements
 OpenAI: Special thanks to OpenAI for providing access to their language models and APIs.
 Contact
 For inquiries or feedback, you can reach us through GitHub Discussions or by email: SilenceGeneric@gmail.com
-
-
-
-
-tune
-
-share
-
-
-more_vert
-
-
-expand_content
-add_photo_alternatephoto_camera
-
-mic
-send
-Gemini may display inaccurate info, including about people, so double-check its responses. Your privacy & 
