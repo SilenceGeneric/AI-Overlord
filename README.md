@@ -1,4 +1,3 @@
-Description
 AI-Overlord is an advanced AI-powered coding assistant designed to help developers with various coding tasks. It leverages OpenAI's language models and other AI tools to automate processes, generate code, and offer intelligent suggestions.
 
 Features
